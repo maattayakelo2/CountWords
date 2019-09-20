@@ -15,6 +15,7 @@ int main()
 	return 0;
 }
 
+
 int countWords(char phrase[])
 {
 	int i;
